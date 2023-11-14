@@ -1,0 +1,13 @@
+---
+output: html_document
+---
+
+# Métodologia CAMEL
+
+La metodología CAMEL tiene por objeto evaluar la **solidez financiera** de una entidad financiera con base en indicadores cuantitativos, contemplando cinco características:
+
+- Capital adecuado (C)
+- Calidad del activo (A)
+- Capacidad de la gerencia (M)
+- Rentabilidad (E)
+- Situación de liquidez (L)
