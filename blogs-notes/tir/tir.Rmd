@@ -1,0 +1,7 @@
+---
+output: html_document
+---
+
+# Tasa interna de retorno (TIR)
+
+$$VAN = \sum_{t=1}^{n}{\frac{F_{t}}{(1+TIR)^{t}}} - I = 0$$
