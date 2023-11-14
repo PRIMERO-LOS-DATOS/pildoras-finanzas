@@ -1,0 +1,9 @@
+---
+output: html_document
+---
+
+# Coste medio ponderado de capital (WACC)
+
+$$WACC = K_{e}\frac{E}{D+E} + K_{d}(1-T)\frac{D}{D+E}$$
+
+$$WACC = \frac{(E*K_{e}) + (D*K_{d}(1-T))}{D+E} $$
